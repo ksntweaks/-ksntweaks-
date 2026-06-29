@@ -1,4 +1,1 @@
-PC optimizer for FPS, PING, LATENCY, STRETCH RES, RAM TWEAKS,ETC.
-Windows Security Is Annoying About This, It Is Safe I swear.
-You may have to turn off smart app control after downloading
-works for all gpus and all cpus
+Windows security may flag this because it is not verified.
